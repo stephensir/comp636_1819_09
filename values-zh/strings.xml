@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NameCard</string>
+
+    <!-- NameCard -->
+    <string name="name">史提芬蛇</string>
+    <string name="information">電腦碩士, 電腦學士, 香港電腦學會會員, 澳洲電腦學會會員\nLPIC-1, CCNA, ITIL\nITE-導師資格, CCNA-導師資格\n\nStephenSir@gmail.com\n(M)98765432</string>
+    <string name="menu_translate">Translate</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_home">Home</string>
+    <!-- NameCard -->
+
+</resources>

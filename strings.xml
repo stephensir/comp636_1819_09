@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NameCard</string>
+
+    <!-- NameCard -->
+    <string name="name">Stephen Sir</string>
+    <string name="information">MSc, BSc, MHKCS, MACS\nLPIC-1, CCNA, ITIL, \nITE-Instructor, CCNA-Instructor\n\nStephenSir@gmail.com\n(M)98765432</string>
+    <string name="menu_translate">Translate</string>
+    <string name="menu_call">Call</string>
+    <string name="menu_email">Email</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_home">Home</string>
+    <!-- NameCard -->
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- NameCard -->
+    <item
+        android:id="@+id/menu_translate"
+        android:onClick="menu_translate_click"
+        android:icon="@drawable/translate"
+        android:title="@string/menu_translate"
+        app:showAsAction="always"/>
+    <!-- NameCard -->
+</menu>
